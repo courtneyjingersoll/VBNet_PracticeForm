@@ -1,0 +1,22 @@
+﻿Square Ted [ID: 123] has sides of 3.
+ _ _ _ 
+|      |
+|      |
+|_ _ _ |
+
+Rectangle Barney [ID: 100] has a width of 5 and a height of 7.
+ _ _ _ _ _  
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|_ _ _ _ _ |
+
+Rectangle Robin [ID: 404] has a width of 4 and a height of 2.
+ _ _ _ _  
+|        |
+|_ _ _ _ |
+
+

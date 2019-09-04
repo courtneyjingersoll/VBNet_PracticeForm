@@ -1,0 +1,14 @@
+square
+Ted
+123
+3
+rectangle
+Barney
+100
+5
+7
+rectangle
+Robin
+404
+4
+2
