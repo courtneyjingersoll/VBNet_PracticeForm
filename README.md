@@ -11,7 +11,7 @@ The 9 practice problems covered by the form are:
  - Question 2: Reading in a list of potential dates, convert only the valid ones to yyyy-mm-dd formatting.
  - Question 3: When a form is resized, update the form elements to resize with it.
  - Question 4: Display two timers, one twice as fast as the other, that count up to 10 then reset back to 0.   
- - Question 5:Reading text from a file, count the number of words and lines, replace "doctor" with "clinician", count the number of replacements, and display the updated text along with each tally.
+ - Question 5: Reading text from a file, count the number of words and lines, replace "doctor" with "clinician", count the number of replacements, and display the updated text along with each tally.
  - Question 6: Reading in text from question 5, sort each unique word into a dynamically-sized array.  Sort the list of words and display in a listbox.
  - Question 7: Inherit a virtual class, Shape, to create classes Rectangle and Square. Create and display Square And Rectangle objects from file input.
  - Question 8: Every time the button is pressed, begin a new thread. Allow the form to be resized while the threads run.
