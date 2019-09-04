@@ -452,7 +452,7 @@ Public Class formTest
 
     ' Question 7:
     '  Inherit a virtual class, Shape, to create classes Rectangle and Square.  
-    '  Create And display Square And Rectangle objects from file input.
+    '  Create and display Square and Rectangle objects from file input.
     Private Sub BtnQuestion7_Click(sender As Object, e As EventArgs) Handles btnQuestion7.Click
         Dim inputData() As String = New String(ARRAY_SIZE_DEFAULT) {}
         Dim outputData() As String = New String(ARRAY_SIZE_DEFAULT) {}
